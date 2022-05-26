@@ -1,0 +1,7 @@
+DECOMPOSIÇÃO: É uma ferramenta de transformar problemas complexos em problemas mais simples e de fácil entendimento e consequentemente facilitando a resolução dos problemas. 
+
+PADRÕES: Identificar as caractrísticas comuns e que se repetem nos problemas e assim analisando a melhor solução possível.
+
+ABSTRAÇÃO: Focar nas caractrísticas que sejam mais relevantes e as quais podem ser reutilizadas em outros cenários semelhantes.
+
+ALGORITMO: É um conjunto de instruções com obejtivo de resolver problemas, deem seguir uma sequência lógica chegando num resultado.

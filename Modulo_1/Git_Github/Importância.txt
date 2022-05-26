@@ -1,0 +1,5 @@
+VANTAGENS: - Controle de versão
+	   - Armazenamento em nuvem
+	   - Trabalho em equipe
+	   - Melhorar o código
+	   - Reconhecimento

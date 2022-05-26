@@ -1,0 +1,12 @@
+TIPO NUMERICO (INTEIROS) = São números que não possuem casas decimais e aceita valores negativos
+
+TIPO NUMERICO (REAIS) - São valores que aceitam casas decimais e tambem com valores negativos
+
+TIPO CARACTERES - são representadas por letras ou até mesmo por numeros desde que estejam entre as aspas duplas e assim são chamadas de strings
+
+TIPO LÓGICO - Vai estar atrelado a logica booleana o qual a resposta vai ser verdadeiras ou falsas
+
+VARIAVEL - É um tipo de estrutura que é mútavelm ou seja, pode ser modificada o seu coteúdo.
+OBS: Uma variavel nao pode utilizar palavras reservadas, a primeira letra não pode ser um numero e sem espaços em branco
+
+CONSTANTE- Tudo aquilo que não muda, uma variavel pode receber uma constante
