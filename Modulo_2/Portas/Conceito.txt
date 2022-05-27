@@ -1,0 +1,13 @@
+PORTAS: são por onde os dados sairão e chegarão
+
+20: FTP Apenas para envio de arquivos
+
+22: SSH Conexão segura entre dois pc
+
+25: SMTP ENvio de emails
+
+53: DNS Tradutor de nome para IP
+
+80: HTTP Requisição simples
+
+443: HTTPS Requisição Segura

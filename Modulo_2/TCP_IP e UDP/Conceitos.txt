@@ -1,0 +1,8 @@
+TCP/IP:
+- Protocolos de comunicação entre computadores em rede, nao pode ser feito de forma desorganizado
+- Utiliza modelo de camadas
+- 4 etapas antes de fazer a comunicação (Física, Rede(IP), Transporte(TCP, UDP), Aplicacao (FTP, SMTHP, HTTP))
+
+UDP: Mais rápido, não confiável pois coisas pode se perder no caminho, manda os pacotes e não sabe quem recebeu ou não, utilizado mais pra livestream
+
+TCP: Voltado para conexão, tem integridade, possui ordem dos dados, ex app de mensagem de texto

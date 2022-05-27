@@ -1,0 +1,5 @@
+MODEM: hardware que converte dados que sejam capazes de ser transmitido para outro pc e demodula esses dados para ter o dado novamente
+
+ROTEADOR: Distribui a internet para um ou mais dispositovs de uma mesma rede, pode fazer comunicações entre redes, e pode ser "Burro" por enviar os daos para todos da rede
+
+SWITCH: Distribui a internet para um ou mais dispositovs de uma mesma rede, os dados chegam exatamente para o usuario necessário 

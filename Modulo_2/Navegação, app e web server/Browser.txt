@@ -1,0 +1,7 @@
+- Da pra navegar na internet sem um browser, mas para acessar um site é preciso de um programa que interprete a LP e transforme compreensíve para nós
+- Identifica varais LP, linguagens de marcação e contúdo multimídia
+- Hoje existe plug-ins ou add-ons
+- Quando acessa os sites você acaba deixando rastros e o cache ja deixa algumas coisas gravadas para caregar mais rápido e os cookies analisa o que você está procurando e gerando produtos que esteja mais nas suas preferências
+
+PÁGINA ESTÁTICA: Quase nçao tem interação nenhuma com site
+PÁGINA DINÂMICA: Tem várias interações simultanêas

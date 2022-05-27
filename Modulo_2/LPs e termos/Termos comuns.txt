@@ -1,0 +1,27 @@
+404 - Endereço inexistente
+
+ALT - texto alternativo
+
+API - Funcionalidade a mais para executar outras funções
+
+Biblioteca/dll - Ferramentas disponiveis
+
+Breakpoints - ou são os pontos chaves para diversos dispositivos ou debug são os pontos de parada 
+
+Documentação - São os comentários internos deixados na programção ou externo como o manual do usário
+
+DPI - proporçao de pontos na tela, quanto maior o DPI maior a resolução
+
+Favicon - Favorito icon
+
+Framework - caixa de ferramentas disponíveis para executar o trabalho
+
+FTP- protocolo de comunicaçao quase para troca de arquivos
+
+Meta tags - Tags htmls que tem função esoecíficas
+
+MVP - Minimal variable product o minimo que seja viavel para disponibilizar pro cliente
+
+SSL - Camada de segurança do site
+
+WYSIWYG - What u see what u get

@@ -1,0 +1,6 @@
+padrao: IEE 802.11g ou IEE 802.11g mais famosos
+
+SEGURANÇA:
+- WEP: cahve de 64 bits e de 128 bits
+- WPA: chave trocada periodicamente, é uma evolução do WEP
+- WPA2: tem uma maior segurança e requer mais processamento (AES) (802.11i)

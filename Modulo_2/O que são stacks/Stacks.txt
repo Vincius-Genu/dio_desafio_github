@@ -1,0 +1,12 @@
+STACKS:
+- Pilhas de tecnologia
+- Conjunto de softwares para executar um app/programa
+- LP
+- Capacidade e limitação de performance disponíveis
+
+IMPORTÂNCIA:
+- Precisam das infos das equip de desenvolvimento
+- Precisam saber das limitaçoes e capacidades e ambientes que têm disponíveis
+- Sistema utilizado, BD, LP, protocolo de comunicação
+- Estratégia de negócios
+- Mitigar riscos, aumento de capacidade, uso de dados

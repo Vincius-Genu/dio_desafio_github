@@ -1,0 +1,9 @@
+ESTATICO: Servidor físico onde são armazenados arq, soft e /ou BD
+
+DINÂMICO: Softwares que estão presentes no servidor físico
+	- file server
+	- application server
+	- Database
+	- Tudo junto e misturado
+- Pode ser um site um app precisa ser hospedade em um servidor, ou seka, tudo esta no servidor
+- Interface para fazer requisições e consultas em BD 

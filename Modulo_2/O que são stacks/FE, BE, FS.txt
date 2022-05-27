@@ -1,0 +1,12 @@
+FRONT-END:
+- Site, software, app, web service
+- Interface, UI, UX (user interface, user experience)
+- LP, HTML, CSS, jQuery / js / AJAX, PHP
+
+BACK-END:
+- Servidores, BD
+- Entre a interface e  BD, regras de negócios, validações
+- MySQL, Oracle, protocolo de comunicação, PHP, Java, node.js
+
+FULLSTACK:
+- Trabalha em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw

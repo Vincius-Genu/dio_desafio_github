@@ -1,0 +1,5 @@
+Apos baixar o Xampp ir em config na linha do Apache dar um ctrl + f e procurar por documentroot logo abaixo do #, e trocar pela o endereço onde vai ficar salvo tanto na linha do Documentroot como <Directory ... >
+
+https://jquery.com/download/
+
+https://www.w3schools.com/

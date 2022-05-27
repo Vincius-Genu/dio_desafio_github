@@ -1,0 +1,14 @@
+SITE:
+- Pág da internet
+- Podem ser feita em varias LP
+- D/XHTML está em desuso
+
+APLICATIVO:
+- Software que é executado no navegador
+- Um app de cleular é uma espécie de navegador
+- Quase não tem diferença entre app e site
+- Hoje é mais comum em falar app do que programa/software
+
+E-COMMERCE:
+- Site de compra e venda com sistema de pagamento
+- O sistema de pagamento pode ser exterior ao site (pix, mercado pago e etc)

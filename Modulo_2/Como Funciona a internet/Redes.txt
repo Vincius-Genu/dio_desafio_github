@@ -1,0 +1,12 @@
+BACKBONE: Tem poucas e são espalhadas pelo mundo as conexoes entre os compputadores e a internet sao mediadas por ela
+
+PROVEDOR DE SERVIÇO: 
+- Dial-up: internet discada
+- ADSL (banda larga)
+- Fibra ótica soa mais velozes
+- Rádio comunica por torres de radio, sao mais instaveis
+- Satélite
+- Móvel
+- P2P: conexao entre dos computadores sem necessariamente conectados a internet
+
+127.0.0.1 É um local host

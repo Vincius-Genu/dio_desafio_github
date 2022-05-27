@@ -1,0 +1,5 @@
+SMS: o celular troca naturalmente alguns bits com as torres de comunição e por isso o sms nao  tem custo
+
+MMS:transmissão de mensgens multimídia
+
+
