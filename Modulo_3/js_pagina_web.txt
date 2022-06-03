@@ -1,0 +1,6 @@
+index é um nome padrao onde seu código está sendo compilado pela primeira vez, onde está o código
+a pasta assets é criada para colocar todos os componentes da página HTML
+
+<link rel="stylesheet" href="assets/css/style.css" />
+
+<script src="assets/js/script.js"></script>

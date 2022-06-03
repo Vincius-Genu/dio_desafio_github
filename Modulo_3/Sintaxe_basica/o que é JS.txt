@@ -1,0 +1,11 @@
+é uma linguagem de alto nível poi se assemelha mais a linguagem humana
+
+LP que integra o desenvolvimento de apps e páginas web
+
+Criar scripts dinâmicos
+
+HTML é a estrutura, o CSS é o design e o JS é a parte interativa do desenvolvimento
+
+Para externar o arquivo bastar segurar o ctrç + clicar no link
+
+Carregar o script antes do fechamenbto do body (são boas práticas)

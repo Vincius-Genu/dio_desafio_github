@@ -1,0 +1,18 @@
+HISTÓRIA:
+JS é uma linguagem interpretada, ou seja, ta sendo rodada em tempo real, não precisou ser codificada antes para depois rodar no site
+
+Baseada em protótipos: como se fosse uma base para uma grande gama de linguagens
+
+multiparadigma: uma linguagem flexível
+
+usada em web cliente-side: usada pelos clientes, o que o cliente vai ver
+
+segue padrão ECMAScript: padrão para várias linguagens 
+
+APLICAÇÕES:
+web: linguagem da web
+Mobile
+Smartwatches
+Games
+IOT
+APIs

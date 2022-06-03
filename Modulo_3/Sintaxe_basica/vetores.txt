@@ -1,0 +1,19 @@
+VETORES OU ARRAYS:
+É um tipo de lista, ou matriz de variávei, onde cada varíavel possui um índice, valores podem ser de vários tipos
+ex let array = ['string', 1, true, ['array1']]
+
+Para acessar o index da lista é colocar um colchete
+
+Manipular array:
+- forEach() - itera um array, executa uma funçao para cada item de um array
+- push() - add item no final do array
+- pop() - remove o item no final do array
+- shift() - remove o item no iniício do array
+- unshift() - add item bi início do array
+- indexOf() - retorna o índice de um valor
+- splice() - remove ou substitui um item pleo índice escolhe o intervalo da onde quer que mantem e apaga todo resto
+- slice() - retonra uma parte de um array existente
+
+OBJETOS:
+Dados que possuem propiedades e valores que definem suas caract. deve-se usar chaves(Semalhante com dictionary do pyton)
+p/ manipular 

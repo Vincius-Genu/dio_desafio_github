@@ -1,0 +1,7 @@
+PAGINA WEB:
+Botão direito + inspecionar ou ctrl + shift + 1
+
+TERMINAL:
+https://nodejs.org/en/
+Para visualizar a parte do cliente
+

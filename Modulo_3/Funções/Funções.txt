@@ -1,0 +1,13 @@
+FUNÇÃO AUTOINVOCAVEL: Ufunção anômi,a entre parênteses, seguida por outro par de parênteses que represente sua chamada. Após a leitura do código ela vai ser executada automaticamente
+
+CALLBACKS: Uma funçao passada de uma função para outra
+
+SPREAD: QUando esta chamando a função
+
+REST: Quando está declarando a função
+
+IF/ELSE: Pode ser feita comparações de valor e tipo
+
+SWITHC/CASE: Sempre é feita equivalências de tipo e valor
+
+THIS: É uma referência de contexto

@@ -1,0 +1,34 @@
+TIPAGEM:
+Funciona como uma regara de uso de dados, quanto mais forte for a tipagem maior é a declaração do tipo de dado
+Tipagem em JS é fraca, pois é modo dinâmico
+
+TIPOS PRIMITIVOS:
+Boolena, Null, Undefined, Number, String, Array, Object, Function
+
+DECLARAÇÃO:
+var - escopo global e local, pode ser alterado, se não tiver um valor inicial vai ser tratado como null
+
+let - escopo local de bloco, pode ser alterado, e não tiver um valor inicial vai ser tratado como null
+
+const - escopo local de bloco, somente leitura, o valor inicial é obrigatório e não pode ser alterado 
+
+ESCOPO GLOBAL - variável pe fora de qualqeur bloco e fica visível em todo bloco
+
+ESCOPO LOCAL - Declarada dentro de um bloco, pode ficar visível ou não no bloco
+
+REGRAS:
+- iniciar com letras, underscroe ou cifrão, não iniciar com número
+- Não usar espaço(usar camelCase ou _)
+- não usar palavras reservadas
+- Declarar variáveis no topo do bloco do código
+
+Atribuição(=) ta atribuindo algum valor a uma variavél ou constante
+Comparação de valor (==) sempre retorna valor boolean
+Comparação indêntica (===) compara valores e tipos e retorna valor boolean
+
+Op. aritmético (+, -, /, //, %, *) 
+
+op. relacionais (>, <, >=, <= )
+
+op. lógico (&& - toos os valores sejam true (e), ││ - qualquer valor seja true (ou), ! inverte o valor logico (não) 
+ 

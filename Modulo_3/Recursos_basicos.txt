@@ -1,0 +1,11 @@
+duas barra para direita acaba criando um comentário de linha (//), ou utilzar o atalho ctrl + /
+
+comentário de múltiplas linhas: começa com um /* e só vai finalizar quando fechar com um */
+
+function soma(a, b) {
+    console.log(a + b)
+    return a + b
+}
+
+console.log(a + b) somente ver o resultado da função
+return a + b quando você precisa do valor para ser manipulando em outras funções

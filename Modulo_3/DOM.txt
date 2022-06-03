@@ -1,0 +1,4 @@
+DOM Document Object Model:
+
+Vai mostrar toda a estrutura dos elementos dentro da janela
+

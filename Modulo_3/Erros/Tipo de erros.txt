@@ -1,0 +1,11 @@
+ECMAScript Error: erros que ocorrem em tempo de execução
+
+DOMException: Erros relacionados ao DOM. erros de estrutura de elementos da pagina web
+
+RETURN: retorna como uma string
+
+THROW: ele mostra no console que aconteceu algum erro, ele retorna como se fosse um erro e vai ter todas as propiedades de erro
+
+TRY...CATCH : Dentro do bloco do try se tiver algum tipo de erro ele vai ser capturado na função catch e dentro do bloco catch pode-se tratar esse erro do jeito que nós escolhermos
+
+FINALLY: uma instrução que se independente se tiver o erro ou nçao ela vai ser chamada

@@ -1,0 +1,24 @@
+CONDICIONAIS:
+Exercer tarefas a partir de uma condição, seja de decisão ou repetição
+if ternario verificacao em uma unica linha
+ex: [cpndicao] ? [instrucao1]: [instrucao2]
+
+laços de repetição:
+FOR
+
+FOR/IN
+
+FOR/OF
+
+WHILE
+
+DO/WHILE
+
+Number - converter valores em números
+
+Prompt - registras entradas do usuario
+
+Alert- mostrar mensagens do usuario
+
+template strinfs - usar strings junto com expressões
+	
