@@ -1,0 +1,16 @@
+https://reactnative.dev/
+
+Para aprender sobres os componentes, API, é um bom amterial de apoio
+
+https://chocolatey.org/install
+para instalação do node e openjdk
+
+https://classic.yarnpkg.com/en/docs/install#windows-stable
+instalação do yarn
+
+https://developer.android.com/studio
+instalação do android studio
+
+
+https://reactnative.dev/docs/environment-setup
+Para alterar as variavaies ir em alterar as variaveis do meu ambiente no painel de controle e nas variaveis de usuario criar um novo e escolher o nome e colocar o endereço do link no campo de baixo
