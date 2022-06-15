@@ -5,41 +5,41 @@ import RNShake from 'react-native-shake';
 
 const App = ()=>{
   const [toggle, setToggle] = useState(false); // Começar com false, pois quero a lanterna desligada
-  const handleChangeToggle = ()=>setToggle(oldToggle => !oldToggle);
+  const handleChangeToggle = () => setToggle(oldToggle => !oldToggle);
 
-  useEffect(()=> {
+  useEffect(() => {
     // Liga flash do celular
-    Torch.switchState(toggle);    
+    Torch.switchState(toggle);
   }, [toggle]);
 
-  useEffect(()=>{
+  useEffect(() => {
     // Quando o celular for chacoalhado ele vai mudar o toggle
-    const subscripition = RNShake.addListener(()=>{
+    const subscripition = RNShake.addListener(() => {
       setToggle(oldToggle => !oldToggle);
     });
     // Essa função vai ser chamada quando o componente for desmontado
     return () => subscripition.remove();
-  }, [])
+  }, []);
 
-  return(
+  return (
     <View style={toggle ? style.containerLight : style.container}>
       <TouchableOpacity onPress={handleChangeToggle}>
-          <Image
-            style={toggle ? style.lightingOn : style.lightingOff}
-            source={
-              toggle 
-              ? require('./assets/icons/eco-light.png') 
+        <Image
+          style={toggle ? style.lightingOn : style.lightingOff}
+          source={
+            toggle
+              ? require('./assets/icons/eco-light.png')
               : require('./assets/icons/eco-light-off.png')
-            }
-          />
-          <Image
-            style={style.dioLogo}
-            source={
-              toggle 
-              ? require('./assets/icons/logo-dio.png') 
+          }
+        />
+        <Image
+          style={style.dioLogo}
+          source={
+            toggle
+              ? require('./assets/icons/logo-dio.png')
               : require('./assets/icons/logo-dio-white.png')
-            }
-          />
+          }
+        />
       </TouchableOpacity>
     </View>
   );
@@ -60,20 +60,20 @@ const style = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  lightingOn:{
+  lightingOn: {
     resizeMode: 'contain',
     alignSelf: 'center',
     width: 150,
     height: 150,
   },
-  lightingOff:{
+  lightingOff: {
     resizeMode: 'contain',
     alignSelf: 'center',
     tintColor: 'white',
     width: 150,
     height: 150,
   },
-  dioLogo:{
+  dioLogo: {
     resizeMode: 'contain',
     alignSelf: 'center',
     width: 250,
