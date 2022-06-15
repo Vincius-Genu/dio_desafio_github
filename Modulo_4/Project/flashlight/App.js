@@ -1,9 +1,9 @@
-import React, {useState, useEffect} from "react";
+import React, {useState, useEffect} from 'react';
 import {View, StyleSheet, Image, TouchableOpacity} from 'react-native';
-import Torch from "react-native-torch";
+import Torch from 'react-native-torch';
 import RNShake from 'react-native-shake';
 
-const App = ()=>{
+const App = () => {
   const [toggle, setToggle] = useState(false); // Começar com false, pois quero a lanterna desligada
   const handleChangeToggle = () => setToggle(oldToggle => !oldToggle);
 
